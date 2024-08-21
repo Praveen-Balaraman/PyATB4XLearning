@@ -1,4 +1,4 @@
 = is the assignment operator
 == equality operator
 ** is used for power
-^  is
+^  is exclusive OR XOR
